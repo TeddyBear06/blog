@@ -13,7 +13,7 @@ But what about this crazy hardware requirement...
 
 [TPM 2.0](https://en.wikipedia.org/wiki/Trusted_Platform_Module)? This imply that everything before an 8th Gen Intel Core and AMD Ryzen 2000 just won’t work... 
 
-Ok, a clever guy found a way to install W11 (by copying `install.wim` from a bootable W11 to a bootable W10 image (BTW WTF??)) even if a computer do not meet this requirement (until the next MS update). But in the end, do we/you/me/us expect that from an operating system right now?
+Ok, a clever guy found a way to install W11 (by copying `install.wim` from a bootable W11 to a bootable W10 image (kind of compressed ISO that can be handled by DISM - Deployment Image Servicing and Management)) even if a computer do not meet this requirement (until the next MS update). But in the end, do we/you/me/us expect that from an operating system right now?
 
 The main response/argument from MS is security. Security is everywhere, I mean the security argument is everywhere, but at the end, what's the real meanning of security? Is security is at cost of technology waste?
 
