@@ -1,3 +1,3 @@
 # LFConsult blog
 
-Random dummy stuff from the cyberspace
+Random dummy stuff from the cyberspace.
